@@ -15,6 +15,7 @@ spring-test/test-output/
 .gradle
 argfile*
 activemq-data/
+/src/main/webapp/WEB-INF/applicationContext.xml
 
 classes/
 /build
